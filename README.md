@@ -1,0 +1,1 @@
+ Orderly is a streamlined inventory and order management system tailored for small businesses and trades. With real-time order tracking, customizable workflows, and an intuitive customer portal, Orderly keeps your operations efficient and your clients informed
